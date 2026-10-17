@@ -1,0 +1,166 @@
+feature,bin,woe,points
+fico_range_low,"(-inf, 665.0]",-0.349,25
+fico_range_low,"(665.0, 670.0]",-0.272,26
+fico_range_low,"(670.0, 675.0]",-0.207,27
+fico_range_low,"(675.0, 680.0]",-0.174,27
+fico_range_low,"(680.0, 685.0]",-0.102,29
+fico_range_low,"(685.0, 695.0]",0.022,30
+fico_range_low,"(695.0, 700.0]",0.146,32
+fico_range_low,"(700.0, 715.0]",0.294,35
+fico_range_low,"(715.0, 735.0]",0.566,39
+fico_range_low,"(735.0, inf]",0.998,45
+annual_inc,"(-inf, 32000.0]",-0.483,25
+annual_inc,"(120000.0, inf]",0.476,35
+annual_inc,"(32000.0, 40000.0]",-0.311,27
+annual_inc,"(40000.0, 46800.0]",-0.167,28
+annual_inc,"(46800.0, 53724.0]",-0.071,29
+annual_inc,"(53724.0, 60000.0]",-0.02,30
+annual_inc,"(60000.0, 70000.0]",0.077,31
+annual_inc,"(70000.0, 80000.0]",0.168,32
+annual_inc,"(80000.0, 95000.0]",0.34,33
+annual_inc,"(95000.0, 120000.0]",0.397,34
+avg_cur_bal,"(-inf, 1440.0]",-0.276,29
+avg_cur_bal,"(10012.0, 14843.0]",0.087,31
+avg_cur_bal,"(1440.0, 2287.0]",-0.269,29
+avg_cur_bal,"(14843.0, 20965.0]",0.205,31
+avg_cur_bal,"(20965.0, 31015.0]",0.391,32
+avg_cur_bal,"(2287.0, 3201.6]",-0.177,29
+avg_cur_bal,"(31015.0, inf]",0.62,33
+avg_cur_bal,"(3201.6, 4397.0]",-0.171,29
+avg_cur_bal,"(4397.0, 6374.0]",-0.087,30
+avg_cur_bal,"(6374.0, 10012.0]",-0.04,30
+avg_cur_bal,Missing,-1.265,24
+total_bc_limit,"(-inf, 3450.0]",-0.34,26
+total_bc_limit,"(10200.0, 13100.0]",-0.082,29
+total_bc_limit,"(13100.0, 16800.0]",0.026,30
+total_bc_limit,"(16800.0, 21700.0]",0.092,31
+total_bc_limit,"(21700.0, 29100.0]",0.187,33
+total_bc_limit,"(29100.0, 42700.0]",0.314,34
+total_bc_limit,"(3450.0, 5600.0]",-0.229,27
+total_bc_limit,"(42700.0, inf]",0.652,39
+total_bc_limit,"(5600.0, 7800.0]",-0.188,28
+total_bc_limit,"(7800.0, 10200.0]",-0.148,28
+acc_open_past_24mths,"(-inf, 1.0]",0.379,35
+acc_open_past_24mths,"(1.0, 2.0]",0.236,33
+acc_open_past_24mths,"(2.0, 3.0]",0.092,31
+acc_open_past_24mths,"(3.0, 4.0]",-0.018,30
+acc_open_past_24mths,"(4.0, 5.0]",-0.084,29
+acc_open_past_24mths,"(5.0, 6.0]",-0.166,28
+acc_open_past_24mths,"(6.0, 8.0]",-0.25,27
+acc_open_past_24mths,"(8.0, inf]",-0.459,24
+dti,"(-inf, 7.1]",0.322,34
+dti,"(10.08, 12.45]",0.227,33
+dti,"(12.45, 14.62]",0.167,32
+dti,"(14.62, 16.8]",0.077,31
+dti,"(16.8, 19.06]",0.023,30
+dti,"(19.06, 21.53]",-0.08,29
+dti,"(21.53, 24.46]",-0.16,28
+dti,"(24.46, 28.21]",-0.273,26
+dti,"(28.21, inf]",-0.381,25
+dti,"(7.1, 10.08]",0.266,34
+num_tl_op_past_12m,"(-inf, 1.0]",0.221,32
+num_tl_op_past_12m,"(1.0, 2.0]",-0.026,30
+num_tl_op_past_12m,"(2.0, 3.0]",-0.163,28
+num_tl_op_past_12m,"(3.0, 4.0]",-0.318,27
+num_tl_op_past_12m,"(4.0, inf]",-0.404,26
+home_ownership,ANY,-0.785,21
+home_ownership,MORTGAGE,0.226,33
+home_ownership,OWN,-0.061,29
+home_ownership,RENT,-0.206,28
+loan_to_income,"(-inf, 0.0731]",0.287,38
+loan_to_income,"(0.0731, 0.104]",0.167,35
+loan_to_income,"(0.104, 0.132]",0.195,35
+loan_to_income,"(0.132, 0.158]",0.136,34
+loan_to_income,"(0.158, 0.184]",0.073,32
+loan_to_income,"(0.184, 0.213]",0.05,31
+loan_to_income,"(0.213, 0.25]",0.0,30
+loan_to_income,"(0.25, 0.29]",-0.109,27
+loan_to_income,"(0.29, 0.346]",-0.294,22
+loan_to_income,"(0.346, inf]",-0.369,20
+mort_acc,"(-inf, 1.0]",-0.152,29
+mort_acc,"(1.0, 2.0]",0.152,31
+mort_acc,"(2.0, 3.0]",0.227,31
+mort_acc,"(3.0, 5.0]",0.304,31
+mort_acc,"(5.0, inf]",0.386,32
+mo_sin_rcnt_tl,"(-inf, 2.0]",-0.246,29
+mo_sin_rcnt_tl,"(12.0, 17.0]",0.248,31
+mo_sin_rcnt_tl,"(17.0, inf]",0.412,32
+mo_sin_rcnt_tl,"(2.0, 3.0]",-0.135,30
+mo_sin_rcnt_tl,"(3.0, 5.0]",-0.056,30
+mo_sin_rcnt_tl,"(5.0, 6.0]",0.014,30
+mo_sin_rcnt_tl,"(6.0, 7.0]",0.053,30
+mo_sin_rcnt_tl,"(7.0, 9.0]",0.08,30
+mo_sin_rcnt_tl,"(9.0, 12.0]",0.116,30
+percent_bc_gt_75,"(-inf, 14.3]",0.316,34
+percent_bc_gt_75,"(14.3, 25.0]",0.172,32
+percent_bc_gt_75,"(25.0, 40.0]",0.061,31
+percent_bc_gt_75,"(40.0, 50.0]",-0.008,30
+percent_bc_gt_75,"(50.0, 60.0]",-0.12,29
+percent_bc_gt_75,"(60.0, 75.0]",-0.113,29
+percent_bc_gt_75,"(75.0, inf]",-0.205,28
+percent_bc_gt_75,Missing,-0.148,28
+mo_sin_old_rev_tl_op,"(-inf, 80.0]",-0.383,26
+mo_sin_old_rev_tl_op,"(103.0, 124.0]",-0.095,29
+mo_sin_old_rev_tl_op,"(124.0, 144.0]",-0.038,30
+mo_sin_old_rev_tl_op,"(144.0, 163.0]",0.069,31
+mo_sin_old_rev_tl_op,"(163.0, 183.0]",0.043,31
+mo_sin_old_rev_tl_op,"(183.0, 211.0]",0.082,31
+mo_sin_old_rev_tl_op,"(211.0, 246.0]",0.148,32
+mo_sin_old_rev_tl_op,"(246.0, 309.0]",0.234,32
+mo_sin_old_rev_tl_op,"(309.0, inf]",0.229,32
+mo_sin_old_rev_tl_op,"(80.0, 103.0]",-0.163,29
+mths_since_recent_inq,"(-inf, 1.0]",-0.253,25
+mths_since_recent_inq,"(1.0, 2.0]",-0.146,27
+mths_since_recent_inq,"(12.0, 16.0]",0.125,33
+mths_since_recent_inq,"(16.0, inf]",0.229,35
+mths_since_recent_inq,"(2.0, 3.0]",-0.101,28
+mths_since_recent_inq,"(3.0, 4.0]",-0.079,28
+mths_since_recent_inq,"(4.0, 6.0]",-0.026,30
+mths_since_recent_inq,"(6.0, 7.0]",0.047,31
+mths_since_recent_inq,"(7.0, 9.0]",0.049,31
+mths_since_recent_inq,"(9.0, 12.0]",0.115,32
+mths_since_recent_inq,Missing,0.35,37
+bc_util,"(-inf, 25.3]",0.32,33
+bc_util,"(25.3, 39.7]",0.219,32
+bc_util,"(39.7, 50.7]",0.124,31
+bc_util,"(50.7, 60.0]",0.056,31
+bc_util,"(60.0, 68.5]",0.014,30
+bc_util,"(68.5, 76.3]",-0.014,30
+bc_util,"(76.3, 83.7]",-0.042,30
+bc_util,"(83.7, 90.3]",-0.077,29
+bc_util,"(90.3, 95.8]",-0.166,29
+bc_util,"(95.8, inf]",-0.307,28
+bc_util,Missing,-0.173,29
+mths_since_recent_bc,"(-inf, 3.0]",-0.256,27
+mths_since_recent_bc,"(11.0, 14.0]",-0.075,29
+mths_since_recent_bc,"(14.0, 19.0]",0.011,30
+mths_since_recent_bc,"(19.0, 25.0]",0.088,31
+mths_since_recent_bc,"(25.0, 36.0]",0.085,31
+mths_since_recent_bc,"(3.0, 5.0]",-0.11,29
+mths_since_recent_bc,"(36.0, 65.0]",0.224,33
+mths_since_recent_bc,"(5.0, 8.0]",-0.077,29
+mths_since_recent_bc,"(65.0, inf]",0.356,34
+mths_since_recent_bc,"(8.0, 11.0]",-0.05,29
+mths_since_recent_bc,Missing,-0.151,28
+purpose,car,0.229,36
+purpose,credit_card,0.184,35
+purpose,debt_consolidation,-0.042,29
+purpose,home_improvement,0.143,34
+purpose,house,-0.194,25
+purpose,major_purchase,0.074,32
+purpose,medical,-0.288,22
+purpose,moving,-0.462,18
+purpose,other,-0.218,24
+purpose,renewable_energy,-0.03,29
+purpose,small_business,-0.67,12
+purpose,vacation,-0.17,26
+purpose,wedding,-0.07,28
+num_actv_rev_tl,"(-inf, 2.0]",0.24,33
+num_actv_rev_tl,"(10.0, inf]",-0.319,26
+num_actv_rev_tl,"(2.0, 3.0]",0.147,32
+num_actv_rev_tl,"(3.0, 4.0]",0.088,31
+num_actv_rev_tl,"(4.0, 5.0]",0.013,30
+num_actv_rev_tl,"(5.0, 6.0]",-0.055,29
+num_actv_rev_tl,"(6.0, 7.0]",-0.043,30
+num_actv_rev_tl,"(7.0, 8.0]",-0.137,29
+num_actv_rev_tl,"(8.0, 10.0]",-0.146,28
